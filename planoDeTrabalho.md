@@ -3,7 +3,7 @@
 | Nome do Projeto:        | Meu Estoque Fácil                  |
 | ----------------------- | ---------------------------------- |
 | Versão:                 | **1.0**                            |
-| Status:                 | **Planejamento e Pesquisa**        |
+| Status:                 | **Desenvolvimento**        |
 | Executor Principal:     | discente Alexandre Gomes Gonçalves |
 
 
