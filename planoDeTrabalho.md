@@ -26,6 +26,7 @@ perdas de produtos, descontrole da validade e dificuldade na tomada de decisões
     * Cadastro de fornecedores;
     * Cadastro de produtos;
     * Cadastro de categorias;
+    * Cadastro de cidades;
     * Controle de entrada de materiais;
     * Controle de saída de materiais;
     * Relatórios gerencias;
