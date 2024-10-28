@@ -2,6 +2,8 @@
 
 ## cadastros
       * Inserir, editar e excluir usuários
+      * Inserir, editar ou excluir cidade de fornecedores
+      * Inserir, editar ou excluir fornecedores
       * Inserir, editar ou excluir categorias de produtos
       * Inserir, editar ou excluir produtos do sistema
       * Realizar movimentação de entrada de materiais no estoque
