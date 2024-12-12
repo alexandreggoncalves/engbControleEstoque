@@ -9,6 +9,8 @@
 
 ![diagrama de uso](blob:https://web.whatsapp.com/f92b67ce-f091-47c9-b336-5de231520077)
 ![diagrama de componente](blob:https://web.whatsapp.com/565e2ea4-c40d-4899-be58-3a8d7f4d524d)
+
+### Diagrama de Classes
 ![Diagrama de Classes](https://github.com/user-attachments/assets/d4386ac0-32b4-4ed3-8e77-59828d726d7c)
 ![diagrama de dequencia gerente](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama_sequencia_gerente.jpeg?raw=true)
 ![diagrama de sequencia fechamento](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama_sequencia_operador_de_fechamento.jpeg?raw=true)
