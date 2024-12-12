@@ -4,6 +4,9 @@
 ![diagrama de reposiçao](blob:https://web.whatsapp.com/262b4222-5b12-4799-ba88-5705cf157593)
 ![diagrama de fechamento](blob:https://web.whatsapp.com/bff1bb61-fcdb-4329-8e46-d17e7b3e4d9d)
 ![diagrama de gerente](blob:https://web.whatsapp.com/64824c43-342d-49e4-82e6-6f894fff3eb4)
+
+### Diagramas de estados
+
 ![diagrama de estados](https://www.planttext.com/api/plantuml/png/TLDDImCn4Bqlx7y8FQbGlEz1r7w0I6sn5GIHacwcDRYRMIVP_X_n81xy5Vl7dAJTtRQsfoGpyzxCl4UkhPFaoZoB8xuv49Ena5Pq9eG5QN3L9saK2WK7LEbGd4t6vvswU3eAnIEmZlYLKfcBi-ceBHZOZr8gghvmhd0-Wxp0W6ZZdZl46qmVh5uPeFdJSwYjt-BfkMrS5aWEvhFg9pKwtP1kWw8ExZA2MMEs1eK4jcRTYoaGmyVnmspmqB-ylUdTyzdWx_8YayR9wjilmbrvtotDNafmxv1YP1ozNBoARlUA5OqZLjLVMQ-4frbgepS0xahmKMgh7TeuuhmlEwPQ8iRinqwdJ2iWQQfl6KV709veLygabK7dJ1IQGmRXRiMAgiybYyPJxAAsB7jI9Q97MZOBQEE0bZA5WDohzEWJuYKX4RetAxcGYgCJaA3WeV7CevX3y-pjI434AtbjBMPb4ou85znIUgKFUJPECTqGG2ra-ixm7B8tv5L5YiPLlwQKtjVQo_-J73ZB7uZHIYfehJs2El1L5gZnjAL727gOoGLImt1wwsimYl_w7m00)
 
 ### Diagrama de Atividades
