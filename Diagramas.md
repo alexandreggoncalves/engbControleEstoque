@@ -27,6 +27,11 @@
 ![diagrama de reposicap](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama_sequencia_operador_de_reposicao.jpeg?raw=true)
 ![diagrama de vendas](https://github.com/alexandreggoncalves/appControleEstoque/blob/main/docs/diagramas-dinamicos/diagrama_sequencia_operador_de_vendas.jpeg?raw=true)
 
+### Diagrama de Comunicação
+
+![Diagrama de Comunicação 1](https://github.com/user-attachments/assets/c5db89eb-5512-458c-a3db-97c16ef2a360)
+
+
 ### Diagrama de Implantação
 
 ![Diagrama de Implanatação](https://github.com/user-attachments/assets/b6ac9cd7-24e2-445f-bba1-d6f8c57c9120)
